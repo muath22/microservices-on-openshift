@@ -8,6 +8,7 @@
     "jsonwebtoken": "^5.7.0",
     "mongoose": "^4.4.5",
     "morgan": "^1.7.0",
-    "request-json": "^0.5.5"
+    "request-json": "^0.5.5",
+    "npm": "run postinstall"
   }
 }
